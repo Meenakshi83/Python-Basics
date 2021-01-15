@@ -1,0 +1,89 @@
+Ques. Number Pattern
+Print the following pattern for n number of rows.
+For eg. N = 5
+
+1        1
+12      21
+123    321
+1234  4321
+1234554321
+
+Ques. Reverse Every Word
+Aadil has been provided with a sentence in the form of a string as a function parameter. The task is to implement a function so as to print the sentence such that each word in the sentence is reversed.
+Example:
+Input Sentence: "Hello, I am Aadil!"
+The expected output will print, ",olleH I ma !lidaA".
+
+
+Ques.Even Fibonacci Numbers
+Given a number N find the sum of all the even valued terms in the fibonacci sequence less than or equal to N. Try generating only even fibonacci numbers instead of iterating over all Fibonacci numbers.
+
+Ques. Reversing Series Pattern
+Print the following pattern for the given number of rows.
+Pattern for N = 5
+1 
+3 2 
+4 5 6 
+10 9 8 7 
+11 12 13 14 15
+
+
+Ques. Decimal to Binary
+Given a decimal number (integer N), convert it into binary and print.
+The binary number should be in the form of an integer.
+
+Ques. All prime numbers
+Given an integer N, print all the prime numbers that lie in the range 2 to N (both inclusive).
+
+
+Ques. Selection Sort
+Provided with a random integer array/list(ARR) of size N, you have been required to sort this array using 'Selection Sort'.
+
+Ques. Array Equilibrium Index
+For a given array/list(ARR) of size 'N,' find and return the 'Equilibrium Index' of the array/list.
+Equilibrium Index of an array/list is an index 'i' such that the sum of elements at indices [0 to (i - 1)] is equal to the sum of elements at indices [(i + 1) to (N-1)]. One thing to note here is, the item at the index 'i' is not included in either part.
+If more than one equilibrium indices are present, then the index appearing first in left to right fashion should be returned. Negative one(-1) if no such index is present.
+Sample Input 1 :
+1
+5
+1 4 9 3 2
+Sample Output 1 :
+2
+Sample Input 2 :
+2
+3
+1 4 6
+3
+1 -1 4
+Sample Output 2 :
+-1
+2
+
+
+Ques. Leaders in array
+ Given an integer array A of size n. Find and print all the leaders present in the input array. An array element A[i] is called Leader, if all the elements following it (i.e. present at its right) are less than or equal to A[i].
+Print all the leader elements separated by space and in the same order they are present in the input array.
+
+Sample Input 1 :
+6
+3 12 34 2 0 -1
+Sample Output 1 :
+34 2 0 -1
+Sample Input 2 :
+5
+13 17 5 4 6
+Sample Output 2 :
+17 6
+
+
+Ques. Reverse string Word Wise
+Reverse the given string word wise. That is, the last word in given string should come at 1st place, last second word at 2nd place and so on. Individual words should remain as it is.
+Sample Input 1:
+Welcome to Coding Ninjas
+Sample Output 1:
+Ninjas Coding to Welcome
+Sample Input 2:
+Always indent your code
+Sample Output 2:
+code your indent Always
+
